@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - standard/20-009.adoc
       - metanorma/ogcapi-styles/document.adoc
 
   collection:

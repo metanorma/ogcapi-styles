@@ -1,7 +1,10 @@
 [appendix]
 :appendix-caption: Annex
 [[Bibliography]]
-= Bibliography
+[appendix]
+[bibliography]
+== Bibliography
+
 
 1. [[geojson]] link:https://tools.ietf.org/html/rfc7946[IETF: RFC 7946 - The GeoJSON Format]
 2. [[t15_d011]] link:https://docs.ogc.org/per/19-023r1.html[OGC: OGC Testbed-15: Encoding and Metadata Conceptual Model for Styles Engineering Report. OGC 19-023, Open Geospatial Consortium (2019)]
